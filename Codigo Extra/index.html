@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Home - Encriptador</title>
+
+        <link rel="stylesheet" href="Css/Style.css">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    </head>
+    <div class="contenedor">
+        <header>
+            <div class="alura">
+                <img src="Images/Logo.png" alt="Logo Alura">
+            </div>
+        </header>
+    
+        <main class="principal">
+            <div class="texto">
+                <div>
+                    <textarea placeholder="Ingrese el texto aquí" name="" id="" cols="40" rows="17"></textarea> 
+                </div>
+                <div class="aclaracion">
+                    
+                    <p class="restriccion">
+                        <img src="Images/Vector.png" alt=""> 
+                        Solo letras minúsculas y sin acentos.
+                    </p>
+                </div>
+                <div class="inputs">
+                    <input class="encriptar" type="button" value="Encriptar">
+                    <input class="desencriptar" type="button" value="Desencriptar">
+                </div>
+    
+               
+            </div>
+    
+            <div class="codigo">
+                <div class="codificado" style="display:none">
+                    <p class="secreto"></p>
+                    <input class="copiar" type="button" value="Copiar"   >
+                </div>
+                
+                <div class="esconder">
+                    <img class="munieco" src="Images/muneco.png" alt="">
+                
+                    <div class="no-mensaje">
+                        <h3>
+                            Ningún mensaje fue encontrado
+                        </h3>
+                        <p>Ingresa el texto que desees encriptar o desencriptar.</p>
+                    </div>
+                </div>
+
+            </div>
+
+        </main>
+    </div>
+    <script src="Js/script.js"></script>
+</body>
+</html>
+
+
