@@ -13,9 +13,7 @@ Html, Css, Java
 
 ## Capturas de pantalla
 
-! [Captura de pantalla 2023-04-15 141348] (Captura de pantalla 2023-04-15 141348.png)
-
-
+! [Descencriptador] (Descencriptador.png)
 
 
 
