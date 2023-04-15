@@ -13,7 +13,4 @@ Html, Css, Java
 
 ## Capturas de pantalla
 
-! [Descencriptador] (Descencriptador.png)
-
-
-
+![Descencriptador](https://user-images.githubusercontent.com/74631878/232250613-f31a2618-1cb7-4ede-8d87-8a171cc65625.png)
