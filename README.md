@@ -13,7 +13,7 @@ Html, Css, Java
 
 ## Capturas de pantalla
 
-! [Captura de pantalla de la aplicación] (https://raw.githubusercontent.com/Charles-tech19/encriptador-alura-git/master/Codigo%20Extra/Captura%20de%20pantalla%202023-04-15%20141348.png)
+! [Captura de pantalla 2023-04-15 141348] (Captura de pantalla 2023-04-15 141348.png)
 
 
 
